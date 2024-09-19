@@ -150,4 +150,4 @@ class MainActivity : AppCompatActivity() {
         val url = Uri.parse(activityMainBinding.parameterTv.text.toString())
         return Intent(ACTION_VIEW, url)
     }
-}git
+}
